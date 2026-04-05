@@ -1,10 +1,10 @@
-# Basic LLM Example
+# Basic API Example
 
 This directory contains a basic example of how to use Google's Generative AI SDK to interact with the Gemini models.
 
 ## Files
 
-- `basic_llm.py`: A simple Python script that connects to the `gemini-2.5-flash` model and asks it to generate a short poem about Python programming.
+- `basic_api.py`: A simple Python script that connects to the `gemini-2.5-flash` model and asks it to generate a short poem about Python programming.
 
 ## Prerequisites
 
@@ -20,5 +20,5 @@ This directory contains a basic example of how to use Google's Generative AI SDK
 To execute the script and see the generated response, run:
 
 ```bash
-python basic_llm.py
+python basic_api.py
 ```
